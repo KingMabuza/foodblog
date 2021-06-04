@@ -10,10 +10,10 @@
     
     $currentTime=date('h:i A');
     
-    $host = 'localhost';
-    $db   = 'ecodesource';
-    $user = 'root';
-    $pass = '';
+    $host = 'remotemysql.com';
+    $db   = '9EStMGfPTb';
+    $user = '9EStMGfPTb';
+    $pass = 'JKz9568BFy';
     $charset = 'utf8mb4';
     
     $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
